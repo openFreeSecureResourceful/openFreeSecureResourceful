@@ -7,7 +7,7 @@
       1-913-963-9264
       if(donation)
       {
-        Please specify how to safey recieve
+        Please specify how to safey receive
       }
 <!---
 openFreeSecureResourceful/openFreeSecureResourceful is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
