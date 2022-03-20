@@ -1,0 +1,12 @@
+
+public class Worker {
+    
+    public Worker()
+    {
+        Translator translator = new Translator(); // Could establish initial means of sending any data across public networks
+    }
+    
+    public static void main(String args[]) {
+      
+    }
+  }
