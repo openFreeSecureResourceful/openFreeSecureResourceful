@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
       nullidentifer@yahoo.com
       1-913-963-9264
-      if(donation)
+      if (donation)
       {
         Please specify how to safey receive
       }
